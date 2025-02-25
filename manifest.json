@@ -1,0 +1,37 @@
+{
+    "name": "Pengingat Tugas",
+    "short_name": "TugasApp",
+    "description": "Aplikasi pengingat dan pencatat tugas berbasis PWA",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#6200ea",
+    "id": "/index.html",
+    "icons": [
+      {
+        "src": "assets/icon-192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "assets/icon-512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "screenshots": [
+      {
+        "src": "assets/Webp.net-resizeimage.png",
+        "sizes": "1080x1920",
+        "type": "image/png",
+        "form_factor": "wide"
+      },
+      {
+        "src": "assets/Webp.net-resizeimage (1).png",
+        "sizes": "1080x1920",
+        "type": "image/png",
+        "form_factor": "narrow"
+      }
+    ]
+  }
+  
